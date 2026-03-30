@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@supabase-js/source": "github:supabase/supabase-js",
+    "dexie": "^4.4.1",
+    "dexie-react-hooks": "^4.4.0"
+  }
+}
